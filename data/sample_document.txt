@@ -1,0 +1,24 @@
+Installation Guide
+
+1. Introduction
+
+This guide describes how to set up and configure the device. Make sure you read all instructions prior to starting the installation process. Due to the fact that the installation requires administrator privileges, ensure that you have the necessary permissions.
+
+2. Prerequisites
+
+In order to install the software, you must have the following:
+- A compatible operating system (e.g., Windows 10 or later)
+- At least 4 GB of RAM
+- Administrator account
+
+3. Installation Steps
+
+Step 1: Start up the installer by clicking on the setup file. The installer will utilise the default configuration settings.
+
+Step 2: On a regular basis, the installer checks for updates. If an update is available, it will be installed subsequent to the main installation.
+
+Step 3: After the installation is complete, set up the network connection. Make sure the device is connected to the network prior to proceeding.
+
+4. Troubleshooting
+
+If the installation fails, shut down the device and restart the the installer. For additional support, i.e., contacting the help desk, refer to the support section.
