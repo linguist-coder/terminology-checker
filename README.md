@@ -6,6 +6,8 @@ A Python tool that checks technical documents against a terminology glossary —
 ![Claude API](https://img.shields.io/badge/Claude-API-orange)
 ![Gradio](https://img.shields.io/badge/UI-Gradio-purple)
 
+Design notes: [A Rule-First Approach to AI-Assisted Terminology QA](https://www.linguist-coder.com/2026/05/a-rule-first-approach-to-ai-assisted.html) explains why the rules run first and Claude only confirms.
+
 ---
 
 ## Features
@@ -22,7 +24,7 @@ A Python tool that checks technical documents against a terminology glossary —
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/terminology-checker.git
+git clone https://github.com/linguist-coder/terminology-checker.git
 cd terminology-checker
 pip install -r requirements.txt
 ```
